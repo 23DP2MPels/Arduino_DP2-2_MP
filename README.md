@@ -11,6 +11,5 @@ Projekts 1 "Get to know your Tools"
 1.4. LED lampiņas pieslēgšana ar paralēli savienotām pogam.
 
 Projekts 2 "Spaceship Interface" 
-3 LED lampiņas kur viena deg kamēr nav uzspiesta poga, un divas lampiņas mirgo viens pēc otrā uzpeidot pogu.
 
-    [Tux, the Linux mascot](/images/Project_1.1.jpg)
+3 LED lampiņas kur viena deg kamēr nav uzspiesta poga, un divas lampiņas mirgo viens pēc otrā uzpeidot pogu.
