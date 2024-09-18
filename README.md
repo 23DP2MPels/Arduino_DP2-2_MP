@@ -13,3 +13,5 @@ Projekts 1 "Get to know your Tools"
 Projekts 2 "Spaceship Interface" 
 
 3 LED lampiņas kur viena deg kamēr nav uzspiesta poga, un divas lampiņas mirgo viens pēc otrā uzpeidot pogu.
+
+![projekts1-1](https://github.com/23DP2MPels/Arduino_DP2-2_MP/blob/master/images/Project_1.1.jpg)
