@@ -4,3 +4,6 @@ apskatīt rezultātu un darba gaitu [šeit](Projekts_01_Iepazisanas/README_Proje
 
 ## Projekts 2 "Spaceship Interface"
 apskatīt rezultātu un darba gaitu [šeit](Projekts_02_kosmiska%20kuga%20interfeis/README_Projekts2.md)
+
+## Projekts 3 "Love-o-Meter"
+apskatīt rezultātu un darba gaitu [šeit](Projekts_03_Love_o_Meter/README_Projekts3.md)
