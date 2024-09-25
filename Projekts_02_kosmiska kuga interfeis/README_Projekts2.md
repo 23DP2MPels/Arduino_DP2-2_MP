@@ -57,3 +57,6 @@ void loop(){
 
 - Rezultatā jabūt
     - nepārtraukti 2 Sarkanas LED lampiņas cikliski viena no divam iedēgas, uzpiežot uz pogas sarkanas lampiņas nodziest un iedēgas zaļa.
+
+![2projekta 1](projekts_2_0_1.jpg)
+![2projekta 1](projekts_2_0_2.jpg)
