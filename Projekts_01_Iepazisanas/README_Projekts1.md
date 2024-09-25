@@ -13,7 +13,7 @@ Pirmaja projektā mes noskaidrojam kā strādat ar elektro komponentiem
 - Rezultats
     - pievienojot arduino pie elektrības **lampiņa sāk degt**
 
-![1projekta 1daļa](Projekts_01_Iepazisanas/projekts_1_1.jpg)
+![1projekta 1daļa](projekts_1_1.jpg)
 
 -------------
 
