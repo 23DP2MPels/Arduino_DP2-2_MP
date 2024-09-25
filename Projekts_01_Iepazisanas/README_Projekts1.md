@@ -27,6 +27,8 @@ Pirmaja projektā mes noskaidrojam kā strādat ar elektro komponentiem
 - Rezultats
     - pievienojot arduino pie elektrības un uzpiežot uz pogas **lampiņa iedēgas**.
 
+![1projekta 2daļa](projekts_1_2.jpg)
+
 -------------
 
 3. LED lampiņas pieslēgšana ar **Ķēde savienotas pogas**.
@@ -38,6 +40,8 @@ Pirmaja projektā mes noskaidrojam kā strādat ar elektro komponentiem
 
 - Rezultats
     - pievienojot arduino pie elektrības un uzpiežot **vienlaicīgi** pogas kas savienotas ķede viens aiz otrā **lampiņa sāk degt**
+
+![1projekta 3daļa](projekts_1_3.jpg)
 
 -------------
 
@@ -51,4 +55,8 @@ Pirmaja projektā mes noskaidrojam kā strādat ar elektro komponentiem
 - Rezultats
     - pievienojot arduino pie elektrības un uzpiežot **vienu** no pogam vai abas vienlaicīgi **lampiņa sāk degt**
 
+![1projekta 4daļa1](projekts_1_4_1.jpg)
+![1projekta 4daļa2](projekts_1_4_2.jpg)
+
 -------------
+
