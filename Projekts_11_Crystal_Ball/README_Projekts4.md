@@ -1,5 +1,5 @@
 
-# Projekts Nr. 111: Kristāla Lode (Crystal Ball)  
+# Projekts Nr. 11: Kristāla Lode (Crystal Ball)  
 
 Šis projekts simulē "nākotnes paredzēšanas lodi", kas izmanto Arduino un akselerometru. Kad lietotājs sakrata ierīci, ekrānā tiek parādīts nejauši ģenerēts teksts — atbilde uz jautājumu.
 
@@ -92,4 +92,4 @@ void izveliesAtbildi() {
 
 ## Rezultāts  
 Kad ierīce tiek sakratīta, ekrānā tiek parādīta nejauša atbilde no definētā saraksta. Akselerometrs reaģē uz kustību un ģenerē datu pārmaiņas, ko izmanto sakratīšanas noteikšanai.
-![.](Projekts_11_Crystal_Ball/Tinkercad%20simulacija.png)
+![.]([Projekts_11_Crystal_Ball/Tinkercad%20simulacija.png](https://github.com/23DP2MPels/Arduino_DP2-2_MP/blob/master/Projekts_11_Crystal_Ball/Tinkercad%20simulacija.png))
