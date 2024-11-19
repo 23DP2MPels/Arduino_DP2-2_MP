@@ -7,3 +7,6 @@ apskatīt rezultātu un darba gaitu [šeit](Projekts_02_kosmiska%20kuga%20interf
 
 ## Projekts 3 "Love-o-Meter"
 apskatīt rezultātu un darba gaitu [šeit](Projekts_03_Love_o_Meter/README_Projekts3.md)
+
+## Projekts 11 "Crystal Ball"
+apskatīt rezultātu un darba gaitu [šeit](Projekts_11_Crystal_Ball/README_Projekts4.md)
