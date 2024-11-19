@@ -92,4 +92,4 @@ void izveliesAtbildi() {
 
 ## Rezultāts  
 Kad ierīce tiek sakratīta, ekrānā tiek parādīta nejauša atbilde no definētā saraksta. Akselerometrs reaģē uz kustību un ģenerē datu pārmaiņas, ko izmanto sakratīšanas noteikšanai.
-![Projekts_11_Crystal_Ball/Tinkercad%20simulacija.png]
+![.](Projekts_11_Crystal_Ball/Tinkercad%20simulacija.png)
